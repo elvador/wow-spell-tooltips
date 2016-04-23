@@ -4,6 +4,10 @@
   "version": "0.0.0",
   "description": "Displays tooltips of World of Warcraft spells when a spell id is selected",
   "keywords": [
+    "wow",
+    "lua",
+    "spell",
+    "spellid"
   ],
   "repository": "https://github.com/elvador/wow-spell-tooltips",
   "license": "MIT",
