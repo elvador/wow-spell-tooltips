@@ -1,6 +1,6 @@
-# wow-spell-tooltip
+# wow-spell-tooltips
 
-Atom package which displays tooltips of World of Warcraft spells when a spell id is selected.
+Atom package displaying tooltips of World of Warcraft spells when a spell id is selected.
 
 ![GIF](http://i.imgur.com/clhRHTe.gif)
 
