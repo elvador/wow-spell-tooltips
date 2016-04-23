@@ -1,5 +1,7 @@
-# wow-spell-tooltip package
+# wow-spell-tooltip
 
-A short description of your package.
+Atom package which displays tooltips of World of Warcraft spells when a spell id is selected.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![GIF](http://i.imgur.com/clhRHTe.gif)
+
+There is no configuration currently. You can change the style of the tooltips in your `~/.atom/styles.less`.
