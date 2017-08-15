@@ -1,7 +1,7 @@
 {
   "name": "wow-spell-tooltips",
   "main": "./lib/wow-spell-tooltips",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "description": "Displays tooltips of World of Warcraft spells when a spell id is selected",
   "keywords": [
     "wow",
