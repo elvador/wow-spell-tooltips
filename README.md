@@ -1,4 +1,4 @@
-# wow-spell-tooltips
+# Archived - Now available as VSCode extension: https://marketplace.visualstudio.com/items?itemName=elvador.wow-spell-tooltips
 
 Atom package displaying tooltips of World of Warcraft spells when a spell id is selected.
 
